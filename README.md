@@ -1,1 +1,1 @@
-# leraning management system built using html css js
+#  built using html css js
